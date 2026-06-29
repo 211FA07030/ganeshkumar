@@ -47,12 +47,20 @@ To secure a **Data Analyst / HR Analyst role** where I can apply my analytical, 
 - Provided insights to support HR decision-making and workforce planning
 - Tools Used: Power BI, Excel
 
-### 🎬 IMDB Movie Data Analysis | SQL
+### 🎬 IMDB Movie xperienceData Analysis | SQL
 - Performed data analysis on IMDB dataset using SQL queries
 - Extracted insights using joins, group by, and aggregate functions
 - Analyzed movie ratings, directors, and trends from structured data
 
 ---
+
+## Experience   Market Analysis | Power BI & SQL
+
+- Analysed 63,100 customers and 99,600 orders from the Instacart online grocery dataset using Power BI and MySQL with 20 SQL queries
+- Built a 4-page interactive Power BI dashboard — Overview, Customer Analysis, Product Analysis and Aisles & Department Analysis with 6 interactive charts
+  Segmented customers into 3 groups — New, Regular and Loyal and found that Loyal customers (only 16%) place the most orders at 0.40 million with a reorder rate     of 59.85%
+- Discovered Banana is the most ordered product at 14,136 times and Milk aisle has the highest reorder rate at 79.23% showing daily essentials drive the strongest   repeat buying
+- Identified Sunday as the busiest shopping day with 183,939 orders and 10 AM as the peak hour with customers shopping every 10 days on average with a basket size   of 10.53 items
 
 ## 📈 Key Achievements
 - Built multiple real-time dashboards using Power BI
